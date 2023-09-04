@@ -1,4 +1,4 @@
-# Description
+# Total Amount of Points
 
 Our football team has finished the championship.
 
