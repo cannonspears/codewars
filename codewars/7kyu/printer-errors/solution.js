@@ -5,3 +5,8 @@ function printerError(s) {
   }
   return `${bad}/${s.length}`;
 }
+
+// Simplified solution - Using regex
+function printerError(s) {
+  return `${s.replace(/[a-m]/gi, "").length}/${s.length}`;
+}
