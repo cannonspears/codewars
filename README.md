@@ -1,11 +1,13 @@
-# Codewars Challenges
+# Coding Challenges
 
 ## Description
 
-[Codewars](https://www.codewars.com) is a platform that helps you learn, train, and improve your coding skills by solving programming tasks of many types and difficulty levels.
+The following platforms help programmers learn, train, and improve coding skills by solving various types and difficulty tasks with their chosen language.
 
-Problems are divided by difficulty via "kyu", with 8 Kyu as the easiest and 1 Kyu as the hardest.
+- [Codewars](https://www.codewars.com)
+- [HackerRank](https://www.hackerrank.com)
+- [Leetcode](https://www.leetcode.com)
 
 ## Author
 
-These problems were created by the Codewars community and solved by Cannon Spears.
+These problems were created by the Codewars, HackerRank, and Leetcode communities and solved by Cannon Spears.
